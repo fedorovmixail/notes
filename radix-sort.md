@@ -51,5 +51,6 @@ function getElement($int, $iter, $redux)
 var_dump($ar);
 exit;
 ```
-
-![сортировка](https://github.com/fedorovmixail/notes/tree/main/src/radix_sort.png)
+  
+  
+![сортировка](src/radix_sort.png)
